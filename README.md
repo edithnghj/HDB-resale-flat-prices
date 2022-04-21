@@ -23,3 +23,5 @@ The resale flat scene has changed quite a bit from the 1980s, 1990s and 2000s. A
 ## 📝 Goals
 - Identify how resale flat prices changed over the years 2011 to 2021
 - Identify how resale flat prices vary with the different characteristics of a flat 
+
+View my project [here](https://github.com/edithnghj/HDB_resale_flat_prices/blob/main/Edith_HDB%20Resale%20Flat%20Prices.ipynb)!
