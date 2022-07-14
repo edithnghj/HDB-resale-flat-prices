@@ -25,6 +25,6 @@ The resale flat scene has changed quite a bit from the 1980s, 1990s and 2000s. A
 - Identify how resale flat prices vary with the different characteristics of a flat 
 
 ## Update on 14 July 2022
-- Recently, I learnt about [OneMap API](https://www.onemap.gov.sg/home/) OneMap is the authoritative national map of Singapore with the most detailed and timely updated information developed by the Singapore Land Authority. 
+- Recently, I learnt about [OneMap API](https://www.onemap.gov.sg/home/). OneMap is the authoritative national map of Singapore with the most detailed and timely updated information developed by the Singapore Land Authority. 
 - Using OneMap API, I was able to derive information on locations of MRT stations and hawker centres. 
 - In this second part, I explore how distances to nearest MRT and nearest hawker centre affect prices of resale flats in Singapore. Please see Part 2 for more. 
